@@ -1,0 +1,24 @@
+{
+  "name": "react-trilogy",
+  "version": "1.0.0",
+  "description": "Providing the Conjoined Triangles of UI Success",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oculus42/react-trilogy.git"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "composition"
+  ],
+  "author": "Samuel Rouse",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/oculus42/react-trilogy/issues"
+  },
+  "homepage": "https://github.com/oculus42/react-trilogy#readme"
+}
